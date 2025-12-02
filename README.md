@@ -41,10 +41,10 @@ I'm **Denziel**, a 20-year-old **Information Technology student (3rd year)** pas
 
 ## ✨ Skills
 <p align="center">
-  <img src="https://progress-bar.dev/95/?title=Flutter&color=00ffbf&animation=1" />
-  <img src="https://progress-bar.dev/85/?title=Web%20Dev&color=ff6ec7&animation=1" />
-  <img src="https://progress-bar.dev/75/?title=IoT&color=8a2be2&animation=1" />
-  <img src="https://progress-bar.dev/65/?title=Java&color=ff4500&animation=1" />
+  <img src="https://img.shields.io/badge/Flutter-95%25-00ffbf?style=for-the-badge" alt="Flutter skill" />
+  <img src="https://img.shields.io/badge/Web_Development-85%25-ff6ec7?style=for-the-badge" alt="Web Dev skill" />
+  <img src="https://img.shields.io/badge/IoT-75%25-8a2be2?style=for-the-badge" alt="IoT skill" />
+  <img src="https://img.shields.io/badge/Java-65%25-ff4500?style=for-the-badge" alt="Java skill" />
 </p>
 
 ---
@@ -67,4 +67,4 @@ I'm **Denziel**, a 20-year-old **Information Technology student (3rd year)** pas
 
 ---
 
-### ✅ Modern, professional, lightweight, and fully GitHub-compatible README
+### ✅ Fully working, modern, professional, and lightweight GitHub README

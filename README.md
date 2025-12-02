@@ -1,78 +1,92 @@
-# Hi, I'm Denziel 👋
+# 👋 Hi, I'm **Denziel**
 
-> *Computer Engineering student • Mobile & Web Developer • IoT tinkerer*
-
-[![Profile Banner](https://img.shields.io/badge/💡-Open%20to%20collab-blue?style=flat-square)](https://github.com/DenzielMM)
-
----
-
-## ✨ Quick Bio
-
-I'm Denziel — I build mobile apps with Flutter, web apps, and small IoT projects using ESP32. I enjoy turning messy ideas into clean, working prototypes and learning new tools along the way.
-
-* 🔭 Currently: polishing a Pathfit Equipment Borrowing & Returning System (web) and a Flutter mobile app.
-* 🌱 Learning: advanced Flutter patterns, state management, and reliable GPS integration for IoT.
-* 💬 Ask me about: Flutter, Java, HTML/CSS/JS, ESP32, Git, and deployment.
-
----
-
-## 🛠️ Tech & Tools
-
-| Frontend                | Backend     |         Mobile |        Embedded |                          Tools & DevOps |
-| ----------------------- | ----------- | -------------: | --------------: | --------------------------------------: |
-| HTML · CSS · JavaScript | PHP · MySQL | Flutter · Dart | ESP32 · Arduino | Git · GitHub · VS Code · Android Studio |
-
-**Languages & Frameworks:**
-
-`Dart` `Java` `JavaScript` `HTML` `CSS` `PHP` `C++`
-
----
-
-## 💼 Featured Projects
-
-> Click the titles to open the repo (replace links with your repo URLs)
-
-* **Pathfit Equipment Borrowing System** — Web-based system for managing equipment borrowing & returns. *(Academic project — PHP/MySQL, responsive UI)*
-* **Mobile Attendance / Tracking App** — Flutter mobile app that integrates with GPS for tracking (ESP32 experiments on the side).
-* **Binary Math Java Program** — Java project for performing arithmetic on multiple number systems without built-in conversion helpers.
-
----
-
-## 📈 GitHub Stats
+### *3rd Year IT Student • Mobile & Web Developer • Tech Enthusiast*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenzielMM&show_icons=true&theme=radical" alt="Denziel's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenzielMM&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/IT%20Student-3rd%20Year-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer-Mobile%20%7C%20Web%20%7C%20IoT-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧩 What I’m working on
+## 🎨 About Me
 
-* Finishing the UI polish and deployment for the Pathfit Equipment System.
-* Fixing GPS reliability issues on our ESP32 + GY-GPS6MU2 module for a school bus tracking project.
+I'm **Denziel**, a 20-year-old **Information Technology student (3rd year)** passionate about creating useful, modern, and real-world applications. I specialize in **mobile development (Flutter)**, **web development**, and **IoT projects** involving ESP32.
 
----
+I love turning problems into clean, working systems — whether it's an academic project, a mobile app, or an embedded prototype. Always improving, always building.
 
-## 📫 Contact & Connect
-
-* GitHub: [@DenzielMM](https://github.com/DenzielMM)
-* Email: `denziel@example.com` *(replace with your real email)*
-* LinkedIn: [your-linkedin-here]
+* 🎓 Currently studying: **BS Information Technology**
+* 📱 Focus: **Flutter Development**, **Responsive Web Systems**, **IoT Integrations**
+* 🚀 Goal: Become a full-stack mobile + web developer
+* ⚡ Fun fact: I enjoy fixing tech problems even outside school projects
 
 ---
 
-## ✍️ Quick How-to (paste into your `README.md`)
+## 🧰 Tech Stack & Tools
 
-1. Edit the badges and links to match your real profile and repos.
-2. Replace placeholder project lines with one-sentence descriptions and links to each repo.
-3. If you want different visuals, visit [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [https://shields.io/](https://shields.io/) for custom badges.
+### **💻 Languages & Frameworks**
+
+`Dart` · `Java` · `JavaScript` · `HTML` · `CSS` · `PHP` · `C++` · `Bootstrap` · `Flutter`
+
+### **🔧 Tools I Use**
+
+* VS Code
+* Android Studio
+* Git & GitHub
+* XAMPP / MySQL
+* Arduino IDE
+
+### **📡 IoT & Embedded Systems**
+
+`ESP32` · `Sensors & Modules` · `GPS (GY-GPS6MU2)` · `Microcontroller Programming`
 
 ---
 
-> *Like this layout? Tell me which sections to expand or which colors/styles you prefer and I’ll update it.*
+## 🏆 Featured Academic & Personal Projects
+
+### **📌 Pathfit Equipment Borrowing & Returning System**
+
+A complete web system for managing borrowing and returning of school equipment.
+
+* Technologies: PHP, HTML/CSS/JS, MySQL
+* Features: CRUD, login system, responsive layout, admin dashboard
+
+### **📌 Flutter Mobile Attendance & Tracking App**
+
+A mobile application created for academic requirements.
+
+* Integrated GPS functions
+* Clean UI and smooth navigation
+* Designed for real-time data
+
+### **📌 Java Number System Calculator**
+
+A Java program performing mathematical operations in **binary**, **decimal**, **octal**, and **hexadecimal** **without using built‑in converters**.
 
 ---
 
-*Last updated: December 2, 2025*
+---
+
+## 🎯 Current Goals
+
+* Strengthen Flutter and API integration
+* Improve UI/UX design for mobile apps
+* Enhance IoT accuracy (especially GPS modules)
+* Build a strong GitHub portfolio
+
+---
+
+## 📬 Connect With Me
+
+* **GitHub:** [@DenzielMM](https://github.com/DenzielMM)
+* **Email:** [your-email-here@example.com](mailto:your-email-here@example.com)
+* **Facebook / LinkedIn:** add your links here
+
+---
+
+### ✨ Want custom colors, neon style, dark theme, anime header, or more animations? Just tell me and I’ll redesign this again!
+
+*Last updated: December 2025*
+
+ 

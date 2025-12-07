@@ -1,6 +1,6 @@
 <p align="center">
   <img width="90%"
-       src="https://github.com/DenzielMM/DenzielMM/raw/main/assets/intro.gif"
+       src="https://https://github.com/DenzielMM/DenzielMM/blob/main/intro.gif"
        alt="Hi, I'm Denziel 👋 3rd Year IT Student | Mobile • Web • IoT Developer">
 </p>
 <!-- ======================= HEADER ======================= -->

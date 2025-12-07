@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="90%"
+       src="https://github.com/DenzielMM/DenzielMM/raw/main/assets/intro.gif"
+       alt="Hi, I'm Denziel 👋 3rd Year IT Student | Mobile • Web • IoT Developer">
+</p>
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00ffbf;">Denziel</span></h1>

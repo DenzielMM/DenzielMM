@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenzielMM/DenzielMM/main/intro.gif" 
-       width="100%" 
-       alt="Animated Background">
+  <img 
+    src="https://raw.githubusercontent.com/DenzielMM/DenzielMM/main/intro.gif"
+    width="100%"
+    style="max-height:260px; object-fit:cover;"
+    alt="Animated Background"
+  />
 </p>
+
 
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Nice To Meet You, I'm <span style="color:#00ffbf;">Denziel</span></h1>
+<h1 align="center">👋 Nice To Meet You, I'm <span style="color:#00ffbf;">Denziel Morales</span></h1>
 
 <h3 align="center">3rd Year IT Student • Mobile & Web Developer • IoT Enthusiast</h3>
 

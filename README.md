@@ -1,13 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenzielMM/DenzielMM/main/intro.gif" 
-       width="100%" 
+       width="70%" 
        alt="Animated Background">
 </p>
 
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00ffbf;">Denziel</span></h1>
-<h3 align="center">3rd Year IT Student • Mobile & Web Developer • IoT Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DenzielMM&style=for-the-badge&color=blue" />

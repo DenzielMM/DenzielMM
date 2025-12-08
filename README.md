@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenzielMM/DenzielMM/main/intro.gif" 
+       width="100%" 
+       alt="Animated Background">
+</p>
 
 <!-- ======================= HEADER ======================= -->
 

@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/DenzielMM/DenzielMM/main/intro.gif"
     width="100%"
-    style="max-height:260px; object-fit:cover;"
+    style="max-height:100px; object-fit:cover;"
     alt="Animated Background"
   />
 </p>
